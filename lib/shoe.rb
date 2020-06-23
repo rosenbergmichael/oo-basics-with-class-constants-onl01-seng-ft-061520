@@ -15,6 +15,6 @@ class Shoe
   end
 
 end
-BRANDS.uniq 
+puts BRANDS.uniq 
 end 
 end 
