@@ -14,6 +14,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
- puts @brand.uniq
+ puts BRANDS.uniq
 
 end 
